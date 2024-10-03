@@ -1,5 +1,13 @@
 # AngularTest2
 
+Test 2
+
+- Retrieve a reference to a specific DOM element within a component and perform DOM manipulation like change background and text color using @ViewChild.
+- Display div with some text content
+- Created two input color type field, color of div should change based on field value
+  - 1.  Text color
+  - 2.  Background color
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.16.
 
 ## Development server
